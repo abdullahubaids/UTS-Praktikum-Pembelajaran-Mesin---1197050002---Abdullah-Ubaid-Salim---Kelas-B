@@ -1,0 +1,1 @@
+# UTS-Praktikum-Pembelajaran-Mesin---1197050002---Abdullah-Ubaid-Salim---Kelas-B
