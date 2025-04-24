@@ -1,4 +1,6 @@
 # UTS-Praktikum-Pembelajaran-Mesin---1197050002---Abdullah-Ubaid-Salim---Kelas-B
+
+Dataset : https://drive.google.com/drive/folders/1UDw8t2pVrdaa-b_Sf1JihNr0jnUmM30m?usp=sharing
 1.	Persiapan Data
     Load dataset:
     import pandas as pd
